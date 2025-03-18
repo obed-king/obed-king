@@ -40,7 +40,7 @@ Here are some of the amazing WordPress websites I have built:
 ---
 
 ## 📌 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Obed%20Johnson-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/obedjohnson)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Obed%20Johnson-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/obed-johnson/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@obedjohnson-blue?style=for-the-badge&logo=twitter)](https://twitter.com/obedjohnson)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=googlechrome)](https://obedjohnson.com)  
 
