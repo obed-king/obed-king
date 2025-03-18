@@ -30,18 +30,18 @@ Here are some of the amazing WordPress websites I have built:
 🌐 [**Vasil Technologies**](https://vasiltech.com)  
 🌐 [**Affiliates | Global-SIBE Consult**](https://affiliates.sibeconsult.com)  
 🌐 [**Dr. Hilda**](https://drhildaampadu.com)  
-<div align="center">
+<div align="left">
     <a href="https://sibeconsult.com"><img src="https://img.shields.io/badge/Global--SIBE%20Consult-%230A66C2?style=for-the-badge"/></a>
     <a href="https://agronextrading.com"><img src="https://img.shields.io/badge/Agronex%20Trading-%23FF6F00?style=for-the-badge"/></a>
     <a href="https://maxmarmedia.com"><img src="https://img.shields.io/badge/Maxmar%20Media-%23D00000?style=for-the-badge"/></a>
-    <a href="https://urbanville.net"><img src="https://img.shields.io/badge/UrbanVille%20Properties-%230A66C2?style=for-the-badge"/></a>
-    <a href="https://ricemall.net"><img src="https://img.shields.io/badge/Rice%20Mall-%23FF6F00?style=for-the-badge"/></a>
-    <a href="https://korstradelines.com"><img src="https://img.shields.io/badge/KORS%20Tradelines-%23D00000?style=for-the-badge"/></a>
-    <a href="https://baffoepolo.co.uk"><img src="https://img.shields.io/badge/Baffoe%20Polo-%230A66C2?style=for-the-badge"/></a>
-    <a href="https://perfecttouchcleaningservices.co.uk"><img src="https://img.shields.io/badge/Perfect%20Touch%20Cleaning%20Services-%23FF6F00?style=for-the-badge"/></a>
-    <a href="https://vasiltech.com"><img src="https://img.shields.io/badge/Vasil%20Technologies-%23D00000?style=for-the-badge"/></a>
-    <a href="https://affiliates.sibeconsult.com"><img src="https://img.shields.io/badge/Affiliates|Global--SIBE%20Consult-%230A66C2?style=for-the-badge"/></a>
-    <a href="https://drhildaampadu.com"><img src="https://img.shields.io/badge/Dr.%20Hilda-%23FF6F00?style=for-the-badge"/></a>
+    <a href="https://urbanville.net"><img src="https://img.shields.io/badge/UrbanVille%20Properties-%23F39C12?style=for-the-badge"/></a>
+    <a href="https://ricemall.net"><img src="https://img.shields.io/badge/Rice%20Mall-%230E6251?style=for-the-badge"/></a>
+    <a href="https://korstradelines.com"><img src="https://img.shields.io/badge/KORS%20Tradelines-%23C0392B?style=for-the-badge"/></a>
+    <a href="https://baffoepolo.co.uk"><img src="https://img.shields.io/badge/Baffoe%20Polo-%239B59B6?style=for-the-badge"/></a>
+    <a href="https://perfecttouchcleaningservices.co.uk"><img src="https://img.shields.io/badge/Perfect%20Touch%20Cleaning%20Services-%23E74C3C?style=for-the-badge"/></a>
+    <a href="https://vasiltech.com"><img src="https://img.shields.io/badge/Vasil%20Technologies-%231ABC9C?style=for-the-badge"/></a>
+    <a href="https://affiliates.sibeconsult.com"><img src="https://img.shields.io/badge/Affiliates|Global--SIBE%20Consult-%23D35400?style=for-the-badge"/></a>
+    <a href="https://drhildaampadu.com"><img src="https://img.shields.io/badge/Dr.%20Hilda-%238E44AD?style=for-the-badge"/></a>
 </div>
 ---
 
