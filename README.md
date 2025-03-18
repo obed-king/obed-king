@@ -21,16 +21,16 @@ Here are some of the amazing WordPress websites I have built:
 
 <div align="left">
     <a href="https://sibeconsult.com"><img src="https://img.shields.io/badge/Global--SIBE%20Consult-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
-    <a href="https://agronextrading.com"><img src="https://img.shields.io/badge/Agronex%20Trading-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://maxmarmedia.com"><img src="https://img.shields.io/badge/Maxmar%20Media-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://urbanville.net"><img src="https://img.shields.io/badge/UrbanVille%20Properties-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://ricemall.net"><img src="https://img.shields.io/badge/Rice%20Mall-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://korstradelines.com"><img src="https://img.shields.io/badge/KORS%20Tradelines-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://baffoepolo.co.uk"><img src="https://img.shields.io/badge/Baffoe%20Polo-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://perfecttouchcleaningservices.co.uk"><img src="https://img.shields.io/badge/Perfect%20Touch%20Cleaning%20Services-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://vasiltech.com"><img src="https://img.shields.io/badge/Vasil%20Technologies-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://affiliates.sibeconsult.com"><img src="https://img.shields.io/badge/Affiliates|Global--SIBE%20Consult-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
-    <a href="https://drhildaampadu.com"><img src="https://img.shields.io/badge/Dr.%20Hilda-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=black"/></a>
+    <a href="https://agronextrading.com"><img src="https://img.shields.io/badge/Agronex%20Trading-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://maxmarmedia.com"><img src="https://img.shields.io/badge/Maxmar%20Media-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://urbanville.net"><img src="https://img.shields.io/badge/UrbanVille%20Properties-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=white"/></a>
+    <a href="https://ricemall.net"><img src="https://img.shields.io/badge/Rice%20Mall-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://korstradelines.com"><img src="https://img.shields.io/badge/KORS%20Tradelines-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://baffoepolo.co.uk"><img src="https://img.shields.io/badge/Baffoe%20Polo-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://perfecttouchcleaningservices.co.uk"><img src="https://img.shields.io/badge/Perfect%20Touch%20Cleaning%20Services-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://vasiltech.com"><img src="https://img.shields.io/badge/Vasil%20Technologies-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://affiliates.sibeconsult.com"><img src="https://img.shields.io/badge/Affiliates|Global--SIBE%20Consult-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://drhildaampadu.com"><img src="https://img.shields.io/badge/Dr.%20Hilda-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
 </div>
 
 
