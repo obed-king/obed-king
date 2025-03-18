@@ -23,7 +23,7 @@ Here are some of the amazing WordPress websites I have built:
     <a href="https://sibeconsult.com"><img src="https://img.shields.io/badge/Global--SIBE%20Consult-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://agronextrading.com"><img src="https://img.shields.io/badge/Agronex%20Trading-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://maxmarmedia.com"><img src="https://img.shields.io/badge/Maxmar%20Media-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
-    <a href="https://urbanville.net"><img src="https://img.shields.io/badge/UrbanVille%20Properties-black?style=for-the-badge&logo=googlechrome&labelColor=white&logoColor=white"/></a>
+    <a href="https://urbanville.net"><img src="https://img.shields.io/badge/UrbanVille%20Properties-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://ricemall.net"><img src="https://img.shields.io/badge/Rice%20Mall-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://korstradelines.com"><img src="https://img.shields.io/badge/KORS%20Tradelines-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://baffoepolo.co.uk"><img src="https://img.shields.io/badge/Baffoe%20Polo-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
