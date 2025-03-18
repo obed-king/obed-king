@@ -34,8 +34,8 @@ Here are some of the amazing WordPress websites I have built:
 ---
 
 ## 📊 GitHub Stats  
-![Obed's GitHub stats](https://github-readme-stats.vercel.app/api?username=obedjohnson&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obedjohnson&layout=compact&theme=radical)  
+![Obed's GitHub stats](https://github-readme-stats.vercel.app/api?username=obed-king&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obed-king&layout=compact&theme=radical)  
 
 ---
 
