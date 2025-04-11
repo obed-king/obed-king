@@ -20,7 +20,7 @@ I am a Front-End Developer and Web Designer with 7+ years of experience in websi
 Here are some of the amazing WordPress websites I have built:
 
 <div align="left">
-    <a href="https://drhildaampadu.com"><img src="https://img.shields.io/badge/Dr.%20Hilda-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
+    <a href="https://drhildaampadu.com"><img src="https://img.shields.io/badge/Dr.%20Hilda%20Ampadu-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://vasiltech.com"><img src="https://img.shields.io/badge/Vasil%20Technologies-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://perfecttouchcleaningservices.co.uk"><img src="https://img.shields.io/badge/Perfect%20Touch%20Cleaning%20Services-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
     <a href="https://maxmarmedia.com"><img src="https://img.shields.io/badge/Maxmar%20Media-black?style=for-the-badge&logo=googlechrome&labelColor=black&logoColor=white"/></a>
